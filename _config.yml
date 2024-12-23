@@ -1,4 +1,4 @@
-baseurl: '/CSR-Website'
+baseurl: '/CSR-Website/'
 permalink: pretty
 title: 'Jekyll Serif'
 
