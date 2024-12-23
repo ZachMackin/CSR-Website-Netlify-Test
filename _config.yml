@@ -1,4 +1,5 @@
-baseurl: '/CSR-Website/'
+remote_theme: zerostaticthemes/jekyll-serif-theme
+baseurl: zachmackin.github.io/CSR-Website/
 permalink: pretty
 title: 'Jekyll Serif'
 
