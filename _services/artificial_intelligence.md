@@ -6,7 +6,7 @@ weight: 1
 
 **Artificial Intelligence (AI)** refers to the creation of machines capable of learning from data and generalizing their knowledge to handle new, unseen situations, allowing them to perform tasks without explicit programming. Over the past decade, this rapidly advancing field has increasingly influenced and reshaped numerous aspects of modern life.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/AI-Image.jpg)
 
 # Major Risks 
 1. Transformation of the Economy -> The rapid advancement of AI technologies poses a substantial risk of widespread job loss and redistribution, potentially rendering many careers obsolete while dramatically increasing the efficiency of workers in numerous fields. Additionally, as AI emerges as one of the most transformative technologies humanity has ever developed, it could trigger an arms race among nations and organizations. This evolution raises concerns about the concentration of power in the hands of those who control the most advanced AI systems—whether corporations or governments—potentially resulting in significant societal and economic imbalances.
